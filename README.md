@@ -3,12 +3,9 @@ A Dashboard UI App
 
 # App Highlight
 
-<img src="app_images/Dashboard UI Code2.png" width="1000" /><br>
-
-<img src="app_images/Dashboard UI Code.png" width="1000" /><br>
-
-<img src="app_images/Dashboard UI App.png" width="300" /><br>
-
+![Dashboard UI App](https://user-images.githubusercontent.com/74413402/192092212-0b8ca1d9-7b05-47fd-a1bc-bfbae7702ff6.png)
+![Dashboard UI Code](https://user-images.githubusercontent.com/74413402/192092213-186977f7-71ca-40d6-a880-3d013358c613.png)
+![Dashboard UI Code2](https://user-images.githubusercontent.com/74413402/192092211-735bd70e-41d6-4639-b338-d342512c6e41.png)
 
 # Code
 
